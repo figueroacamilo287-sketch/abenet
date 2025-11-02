@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abenet - Tecnología a tu alcance</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <h1 class="logo">Abenet</h1>
+    <nav>
+      <a href="#servicios">Servicios</a>
+      <a href="#contacto">Contacto</a>
+      <a href="privacidad.html">Privacidad</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Innovación digital para tu negocio</h2>
+    <p>En Abenet impulsamos tu presencia online con soluciones tecnológicas modernas, seguras y efectivas.</p>
+    <a href="#contacto" class="btn">Contáctanos</a>
+  </section>
+
+  <section id="servicios" class="section">
+    <h3>Nuestros Servicios</h3>
+    <div class="cards">
+      <div class="card">
+        <h4>Desarrollo Web</h4>
+        <p>Diseñamos páginas modernas, seguras y optimizadas para destacar tu negocio.</p>
+      </div>
+      <div class="card">
+        <h4>Marketing Digital</h4>
+        <p>Mejora tu visibilidad en línea con estrategias efectivas y personalizadas.</p>
+      </div>
+      <div class="card">
+        <h4>Consultoría Tecnológica</h4>
+        <p>Te ayudamos a implementar soluciones digitales que generen resultados.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contacto" class="section contacto">
+    <h3>Contáctanos</h3>
+    <p>¿Listo para llevar tu negocio al siguiente nivel? Escríbenos hoy mismo.</p>
+    <a href="mailto:contacto@abenet.com" class="btn">Enviar correo</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Abenet. Todos los derechos reservados.</p>
+    <a href="privacidad.html">Política de Privacidad</a>
+  </footer>
+</body>
+</html>

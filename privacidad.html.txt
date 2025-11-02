@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidad - Abenet</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <h1 class="logo">Abenet</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+    </nav>
+  </header>
+
+  <section class="section">
+    <h2>Política de Privacidad</h2>
+    <p>En Abenet valoramos y respetamos tu privacidad. Esta política explica cómo recopilamos, usamos y protegemos tu información personal.</p>
+
+    <h3>1. Información que recopilamos</h3>
+    <p>Podemos recopilar datos como tu nombre, dirección de correo electrónico y cualquier otra información que proporciones al contactarnos.</p>
+
+    <h3>2. Uso de la información</h3>
+    <p>Utilizamos tus datos para mejorar nuestros servicios, responder tus consultas y ofrecerte una mejor experiencia.</p>
+
+    <h3>3. Protección de datos</h3>
+    <p>Implementamos medidas de seguridad para proteger tu información contra el acceso no autorizado o divulgación.</p>
+
+    <h3>4. Derechos del usuario</h3>
+    <p>Puedes solicitar la actualización o eliminación de tus datos en cualquier momento escribiendo a <a href="mailto:privacidad@abenet.com">privacidad@abenet.com</a>.</p>
+
+    <h3>5. Cambios en la política</h3>
+    <p>Nos reservamos el derecho de actualizar esta política. Cualquier cambio se publicará en esta misma página.</p>
+
+    <p>Última actualización: noviembre de 2025</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Abenet. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
